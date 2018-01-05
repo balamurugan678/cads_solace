@@ -1,0 +1,7 @@
+cads:
+  solace-host: solace-host
+  solace-vpn: solace-vpn-name
+  solace-username: solace-username
+  solace-password: solace-password
+  solace-treats-topic: treats-topic-name
+  targetDirectory: /target/directory/treats

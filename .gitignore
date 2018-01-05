@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+/cads_solace.iml
+/cads-solace-service/target/
+/cads-solace-service/cads-solace-service.iml
+/cads-solace-app/target/
+/cads-solace-app/cads-solace-app.iml
